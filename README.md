@@ -18,5 +18,3 @@ Here are some ideas to get you started:
 
 ![wuxiaoxiaoshen's github stats](https://github-readme-stats.vercel.app/api?username=wuxiaoxiaoshen&show_icons=true&theme=radical)
 
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuxiaoxiaoshen&repo=github-readme-stats)](https://github.com/wuxiaoxiaoshen/github-readme-stats)
