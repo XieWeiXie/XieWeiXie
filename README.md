@@ -1,4 +1,4 @@
-### Hi there 👋
+### XieWei
 
 <!--
 **wuxiaoxiaoshen/wuxiaoxiaoshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![wuxiaoxiaoshen's github stats](https://github-readme-stats.vercel.app/api?username=wuxiaoxiaoshen)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ![wuxiaoxiaoshen's github stats](https://github-readme-stats.vercel.app/api?username=wuxiaoxiaoshen&show_icons=true&theme=radical)
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=wuxiaoxiaoshen&repo=github-readme-stats)](https://github.com/wuxiaoxiaoshen/github-readme-stats)
