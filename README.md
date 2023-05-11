@@ -11,7 +11,8 @@
 
 ## 🫡 Find me
 
-[![WeChat!](./img/wechat.jpg)](./img/wechat.jpg)
+<img src='./img/wechat.jpg' alt='wu_xiaoshen' width='300'/>
+
 
 
 
