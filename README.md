@@ -1,7 +1,33 @@
-### XieWei
+
+<h1 align="center">🫡  I'm XieWei </h1>
+<h3 align="center">A software developer </h3>
+
+
+
+## 💬 Talk with me
+- Backend web development (go、rust、python)
+- Cool idea about production
+
+
+## 🫡 Find me
+
+<body>
+<style>
+.qrcode-container {
+  position: relative;
+  display: inline-block;
+  width: 300px;
+  height: 100px;
+}
+</style>
+<div class="qrcode-container">
+  <img src="./img/wechat.jpg" alt="wu_xiaoshen" >
+</div>
+</body>
+
 
 <!--
-**wuxiaoxiaoshen/wuxiaoxiaoshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**XieWeiXie/XieWeiXie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,5 +42,6 @@ Here are some ideas to get you started:
 -->
 
 
-![wuxiaoxiaoshen's github stats](https://github-readme-stats.vercel.app/api?username=wuxiaoxiaoshen&show_icons=true&theme=radical)
+
+![XieWeiXie's github stats](https://github-readme-stats.vercel.app/api?username=XieWeiXie&show_icons=true&theme=radical)
 
