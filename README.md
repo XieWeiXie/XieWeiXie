@@ -12,7 +12,7 @@
 ## 🫡 Find me
 <details>
   <summary>WeChat</summary>
-  <img src="./img/wechat.jpg" alt="wu_xiaoshen" width="200">
+  <img src="./img/wechat.jpg" alt="wu_xiaoshen" width="360">
 </details>
 
 
