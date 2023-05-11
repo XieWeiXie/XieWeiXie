@@ -13,18 +13,6 @@
 <details>
   <summary>WeChat</summary>
   <img src="./img/wechat.jpg" alt="wu_xiaoshen" width="200">
-
-  <script>
-  var image = document.querySelector('img');
-  var summary = document.querySelector('details summary');
-  summary.addEventListener('click', function() {
-    if (image.style.display === 'none') {
-      image.style.display = 'block';
-    } else {
-      image.style.display = 'none';
-    }
-  });
-  </script>
 </details>
 
 
