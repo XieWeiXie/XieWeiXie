@@ -11,8 +11,6 @@
 
 ## 🫡 Find me
 
+[![Scan Me!](./img/wechat.jpg)](./img/wechat.jpg)
 
-<div class="qrcode-container">
-  <img src="./img/wechat.jpg" alt="wu_xiaoshen" width="475" height="475">
-</div>
 
